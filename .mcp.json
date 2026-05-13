@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "legality": {
+      "type": "http",
+      "url": "https://legality-seven.vercel.app/api/mcp",
+      "oauth": {
+        "clientId": "9xM4aL8KzYBgWCCz",
+        "callbackPort": 8080
+      },
+      "description": "legality MCP server. India-jurisdiction contract review and licensed-advocate consultation. OAuth 2.1 via Clerk; bearer-token auth for tools/call."
+    }
+  }
+}

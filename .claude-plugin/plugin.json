@@ -1,0 +1,14 @@
+{
+  "name": "legality",
+  "version": "0.1.0",
+  "description": "Jurisdiction-specific contract review and licensed-advocate consultation, starting with India. AI-first analysis grounded in a curated statute corpus; optional human escalation to BCI-verified advocates.",
+  "author": {
+    "name": "Aditya Nittur Anantha",
+    "email": "an@flowblinq.com",
+    "url": "https://github.com/ANittur"
+  },
+  "homepage": "https://github.com/ANittur/legality-plugin",
+  "repository": "https://github.com/ANittur/legality-plugin",
+  "license": "MIT",
+  "keywords": ["legal", "contracts", "india", "advocate", "review", "compliance", "mcp"]
+}
