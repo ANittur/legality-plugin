@@ -1,7 +1,7 @@
 {
   "name": "legality",
-  "version": "0.1.0",
-  "description": "Jurisdiction-specific contract review and licensed-advocate consultation, starting with India. AI-first analysis grounded in a curated statute corpus; optional human escalation to BCI-verified advocates.",
+  "version": "0.2.0",
+  "description": "Jurisdiction-specific contract review and drafting, plus licensed-advocate consultation. Starting with India: 13-Act hierarchical statute corpus, AI-first analysis grounded in served statutes (no hallucinated citations), optional escalation to BCI-verified advocates.",
   "author": {
     "name": "Aditya Nittur Anantha",
     "email": "an@flowblinq.com",
